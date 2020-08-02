@@ -8,7 +8,8 @@ export default {
         image: '/images/d1.jpg',
         price: 60,
         rating:4,
-        numReviews:10
+        numReviews:10,
+        countInStock:5,
         },
         {
             _id:2,
@@ -18,7 +19,8 @@ export default {
         image: '/images/d2.jpg',
         price: 50,
         rating:5,
-        numReviews:6
+        numReviews:6,
+        countInStock:5,
         },
         {
             _id:3,
@@ -28,7 +30,8 @@ export default {
         image: '/images/d3.jpg',
         price: 90,
         rating:4.5,
-        numReviews:12
+        numReviews:12,
+        countInStock:5,
         },
         {
             _id:4,
@@ -38,7 +41,8 @@ export default {
         image: '/images/d4.jpg',
         price: 35,
         rating:4.5,
-        numReviews:11
+        numReviews:11,
+        countInStock:5,
         },
         {
             _id:5,
@@ -48,7 +52,8 @@ export default {
         image: '/images/d5.jpg',
         price: 65,
         rating:4,
-        numReviews:3
+        numReviews:3,
+        countInStock:5,
         },
         {
             _id:6,
@@ -58,7 +63,8 @@ export default {
         image: '/images/d6.jpg',
         price: 80,
         rating:3.5,
-        numReviews:18
+        numReviews:18,
+        countInStock:0,
         },
 
     ]
